@@ -1,0 +1,115 @@
+[
+    {
+        "label": "Art",
+        "tags": [
+            "art",
+            "relax",
+            "artwork",
+            "painting",
+            "creative",
+            "instaart",
+            "artist"
+        ]
+    },
+    {
+        "label": "Nature",
+        "tags": [
+            "photooftheday",
+            "picoftheday",
+            "nature",
+            "happiness",
+            "clouds",
+            "naturephotography",
+            "picture",
+            "naturelovers"
+        ]
+    },
+    {
+        "label": "City",
+        "tags": [
+            "travel",
+            "life",
+            "design",
+            "photographer",
+            "inspiration",
+            "architecture",
+            "streetphotography",
+            "street"
+        ]
+    },
+    {
+        "label": "Landscape",
+        "tags": [
+            "instadaily",
+            "beauty",
+            "pretty",
+            "instapic",
+            "landscape",
+            "vacation",
+            "instaphoto",
+            "view",
+            "outdoors",
+            "travel"
+        ]
+    },
+    {
+        "label": "Morning",
+        "tags": [
+            "morning",
+            "goodmorning",
+            "mood",
+            "live",
+            "peace",
+            "day",
+            "enjoy"
+        ]
+    },
+    {
+        "label": "Food",
+        "tags": [
+            "food",
+            "foodie",
+            "delicious",
+            "awesome",
+            "breakfast",
+            "yum",
+            "yummy",
+            "lunch",
+            "tasty",
+            "foodphotography",
+            "foodporn",
+            "instafood"
+        ]
+    },
+    {
+        "label": "Fitness",
+        "tags": [
+            "instafit",
+            "exercise",
+            "abs",
+            "fitness",
+            "gym",
+            "fit"
+        ]
+    },
+    {
+        "label": "Happy",
+        "tags": [
+            "instagood",
+            "happy",
+            "life",
+            "amazing",
+            "instamood",
+            "instapic",
+            "workout",
+            "happiness",
+            "blessed"
+        ]
+    },
+    {
+        "label": "Funny",
+        "tags": [
+            "lol"
+        ]
+    }
+]
