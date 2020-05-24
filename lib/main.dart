@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 
 import './PostPreview.dart';
 import './TagInput.dart';
-import './captions/CaptionInput.dart';
+import './CaptionInput.dart';
 
 void main() {
   runApp(MainApp());

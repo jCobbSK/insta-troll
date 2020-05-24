@@ -2,7 +2,8 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import '../Data.dart';
+import './data/Jokes.dart';
+import './data/Motivations.dart';
 
 enum CaptionType {
   custom,

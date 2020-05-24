@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:multiselect_formfield/multiselect_formfield.dart';
 import 'dart:math';
 
-import './Data.dart';
+import './data/Tags.dart';
 
 const MAX_TAGS = 10;
 
@@ -44,6 +44,8 @@ class TagInput extends StatelessWidget {
           if (value == null || value.length == 0) {
             return 'Please select one or more options';
           }
+
+          return value;
         },
         dataSource: itemList,
         textField: 'display',

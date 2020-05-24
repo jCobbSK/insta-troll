@@ -1,16 +1,22 @@
-# insta_troll
+# Insta troll
 
-A new Flutter project.
+Easily generate customizable post text for instagram pic with special selected hashtags to ensure maximum audience reach.
 
-## Getting Started
+App takes into account that [research](https://sproutsocial.com/insights/social-media-character-counter/#instagram) shows the best reach of post is with maximum of 10 hashtags per post and they shouldn't repeat on multiple posts to prevent marking account as spam.
 
-This project is a starting point for a Flutter application.
+## Getting started
 
-A few resources to get you started if this is your first Flutter project:
+This project is bootstrapped flutter application. With minimal customizations.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+For running locally please follow https://flutter.dev/docs/get-started/install .
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributions / Suggestions
+
+In case of any questions / suggestions , please use issues section of this github repo.
+
+## Project status
+
+This is/was just my first play with Dart and Flutter. No expectations. Just fun.
+
+
+
